@@ -1,0 +1,34 @@
+c:\users\bolarinwa\documents\visual studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\bin\Debug\AskIt_ScoreSheet_Project.exe.config
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\bin\Debug\AskIt_ScoreSheet_Project.exe
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\bin\Debug\AskIt_ScoreSheet_Project.pdb
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.csprojResolveAssemblyReference.cache
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.SplashScreen.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.Properties.Resources.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.csproj.GenerateResource.Cache
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.exe
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.pdb
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.LogIn.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.MainMenu.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.NewRecord.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.UploadScores.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.PasswordMgt.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.ExistingRecord.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.Results.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.SubjectOffered.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\bin\Debug\AskIt_ScoreSheet_Project.exe.config
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.exe
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.pdb
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\bin\Debug\AskIt_ScoreSheet_Project.exe
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\bin\Debug\AskIt_ScoreSheet_Project.pdb
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.csprojResolveAssemblyReference.cache
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.ExistingRecord.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.LogIn.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.MainMenu.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.NewRecord.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.PasswordMgt.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.Results.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.SplashScreen.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.Properties.Resources.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.SubjectOffered.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.UploadScores.resources
+C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\AskIt_ScoreSheet_Project - Copy\AskIt_ScoreSheet_Project\obj\Debug\AskIt_ScoreSheet_Project.csproj.GenerateResource.Cache

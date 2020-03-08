@@ -1,0 +1,2 @@
+This app requires DotNet Framework 4.5 and above to Run.
+Get the specified Version installed on your Machine.

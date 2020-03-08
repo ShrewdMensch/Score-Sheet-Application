@@ -1,0 +1,8 @@
+This Program is Licensed to Askit Nigeria Ltd.
+The Program is not Transferable without the Full Knowlegde of Askit Nigeria Ltd.
+
+This Program is use to Store, manage and update Student Biodata as well as output Results.
+
+All right is Reserved by Askit Nigeria Ltd.
+
+Copyright ©2015.
